@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.coupon-box2 { width: 70%; margin:0 auto; border: 1px dashed #cc0000; position: relative; float: left;  margin-right:15px; margin-bottom:15px; }
+a { text-decoration: none; outline: none; }
+.image-box2 { position: relative; }
+.image-box2 img { height: 160px; width:100%; margin:0 auto; border:none; }
+.image-box2 .title2 { position: relative; width: 452px; width: 100%; font-size: 20px; font-weight: bold; height: auto; padding: 15px 0px; text-align: center; text-transform: uppercase;
+background: #f24141; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIxJSIgc3RvcC1jb2xvcj0iI2YyNDE0MSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjYzAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #f24141 1%, #cc0000 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#f24141), color-stop(100%,#cc0000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f24141 1%,#cc0000 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f24141', endColorstr='#cc0000',GradientType=0 ); /* IE6-8 */ }
+.image-box2 .title2 a { color: #fff; }
+.getcode-box2 { text-align: center; margin: 0 auto 10px; font-size: 26px; line-height: 45px; text-transform: uppercase; color: #fff;
+background: #f24141; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIxJSIgc3RvcC1jb2xvcj0iI2YyNDE0MSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjYzAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #f24141 1%, #cc0000 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#f24141), color-stop(100%,#cc0000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f24141 1%,#cc0000 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f24141', endColorstr='#cc0000',GradientType=0 ); /* IE6-8 */ }
+.getcode-box2 a { color:#fff; }
+.getcode-box2 a:hover{ color:#fff; }
+.expire-info2 { font-size: 20px; color: #000; text-align: center; height: auto; padding-bottom: 10px; font-weight:bold; background:#dedede; }
+.expire-info2 .expire2 span { color: #717171; font-weight:normal; }
+.tag2 { font-size: 14px; font-weight: normal; line-height:25px; }
+.offer-box2 { background: #f24141; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIxJSIgc3RvcC1jb2xvcj0iI2YyNDE0MSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjYzAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #f24141 1%, #cc0000 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#f24141), color-stop(100%,#cc0000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f24141 1%,#cc0000 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f24141 1%,#cc0000 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f24141', endColorstr='#cc0000',GradientType=0 ); /* IE6-8 */  text-align: center; }
+.offer-box2 .offer-dis2 { font-size: 30px; color: #fff; padding:5px 0; font-weight: bold; }
+.entry-content p, .entry-summary p, .comment-content p, .mu_register p { margin: 0 0 24px; margin: 0 0 1.714285714rem; line-height: 1.714285714; }
+.merchantLink2 {padding:5px 0; margin:0; margin:10px!important 0; }
+.merchantLink2 a.inline_content_1 {  font-size:14px; font-weight:bold; padding:10px 25px; color:#CAC8DB; margin:10px 0; }
+.merchantLink2 a.inline_content_1:hover { color:#ACAABA; }
+
+.default_coupon_template_title { background-color: #CCCCCC;
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 5px 0 5px 9px;}
+    
+.form-setting{
+border: 1px solid #E1E1E1;
+margin:0 0 0 0;
+}
+
+.form-setting-scroll{
+border: 1px solid #E1E1E1;
+margin:0 0 0 0;
+width:auto;
+padding:0 0 8px 0;
+}
+
+.form-setting-scroll tr td{
+	display: block !important;
+    float: left !important;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 9px;
+    padding: 8px 10px;
+}
+.c_tags a{color:#717171;}
+.c_tags a:hover{color:#424242;}
+#postoffer_div .error{color:#FF0000;}
